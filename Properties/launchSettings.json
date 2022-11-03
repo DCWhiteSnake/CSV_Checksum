@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSV_Checksum": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\David Okeke\\source\\repos\\HNG - 9\\Preselection Team Selection Task\\CSV_Checksum\\CSV\" sample_input.csv"
+    }
+  }
+}
